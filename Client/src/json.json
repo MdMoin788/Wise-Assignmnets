@@ -1,0 +1,35 @@
+[
+    {
+        "availibility": "true",
+        "capacity": "4",
+        "createdAt": "2022-09-08T22:29:17.759Z",
+        "image": "https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "location": "delhi",
+        "name": "maruti Suzuki",
+        "rentPerDay": "100",
+        "updatedAt": "2022-09-08T23:13:17.803Z",
+        "_id": "631a6cbdd9b854658b1cbff0"
+    },
+    {
+        "availibility": "true",
+        "capacity": "4",
+        "createdAt": "2022-09-08T22:29:17.759Z",
+        "image": "https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "location": "delhi",
+        "name": "maruti Suzuki",
+        "rentPerDay": "6",
+        "updatedAt": "2022-09-08T23:13:17.803Z",
+        "_id": "631a6cecd9b854658b1cbff2"
+    },
+    {
+        "availibility": "true",
+        "capacity": "4",
+        "createdAt": "2022-09-08T22:29:17.759Z",
+        "image": "https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/39015/punch-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75",
+        "location": "delhi",
+        "name": "maruti Suzuki",
+        "rentPerDay": "6",
+        "updatedAt": "2022-09-08T23:13:17.803Z",
+        "_id": "631a6d1ad9b854658b1cbff4"
+    }
+]
