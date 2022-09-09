@@ -1,5 +1,5 @@
 # Wise-Assignmnets
-
+#if you want to check live then run in locally because heroku link not wroking properly 
 
 
 #to get all all data of scooty or car
